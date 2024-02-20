@@ -1,0 +1,9 @@
+package com;
+
+public class BankTest {
+
+	public static void main(String[] args) {
+   Bank b1=new Bank(1000);
+	}
+
+}

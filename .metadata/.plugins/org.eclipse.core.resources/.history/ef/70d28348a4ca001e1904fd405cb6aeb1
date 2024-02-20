@@ -1,0 +1,15 @@
+package com;
+
+class Demo {
+	static int a = 45;
+}
+
+public class LearnStaticVaraible {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+	 new Demo();
+	System.out.println(Demo.a); 
+	}
+
+}

@@ -1,0 +1,13 @@
+package com;
+
+public class RectangleTest {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+RectangleArea obj=new RectangleArea();
+obj.setlength(12);
+obj.setbreadth(45);
+
+	}
+
+}

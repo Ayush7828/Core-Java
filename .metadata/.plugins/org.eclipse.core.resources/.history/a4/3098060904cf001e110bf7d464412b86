@@ -1,0 +1,7 @@
+package com.abstractClass;
+
+abstract class Vehicle {
+	int noOfTyer;
+
+	abstract void start();
+}

@@ -1,0 +1,23 @@
+package com;
+
+public class Student {
+	int a = 10;
+
+}
+
+class B extends Student {
+
+	int a = 78;
+
+	void show() {
+
+		System.out.println("B = " + a);
+
+		System.out.println("A = " + super.a);// THIS line call super class Variable use super keyword
+
+		/*
+		 * Output B = 78 A = 10
+		 */
+	}
+
+}

@@ -1,0 +1,20 @@
+package com;
+
+class A {
+	static {
+		System.out.println("Hello Porgram");
+	}
+	static {
+		System.out.println("Tushar Porgram");
+	}
+
+}
+
+public class AProgram {
+
+	public static void main(String[] args) {
+		new A();
+
+	}
+
+}

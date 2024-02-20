@@ -1,0 +1,22 @@
+package com.methodOverloading;
+
+public class Demo {
+	void add() {
+		int a = 45, b = 78, c;
+		c = a + b;
+		System.out.println("Additon = " + c);
+
+	}
+
+	void add(int a, int b) {
+		int c = a + b;
+		System.out.println("Addtion= " + c);
+
+	}
+
+	void multiply() {
+		int a = 7, b = 8, c;
+		c = a * b;
+		System.out.println("Multiply = " + c);
+	}
+}

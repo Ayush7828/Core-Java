@@ -1,0 +1,15 @@
+package com;
+
+public class LearnStudent {
+
+	int i;
+
+	void setValue(int x) {
+
+	}
+
+	void show() {
+		System.out.println(i);
+	}
+
+}

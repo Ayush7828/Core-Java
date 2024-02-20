@@ -1,0 +1,22 @@
+package com;
+
+class Calculator {
+	static int marks = 20;
+
+	void he() {
+		System.out.println("GGGGG");
+		System.out.println(marks);
+	}
+}
+
+public class Basic {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Calculator obj = new Calculator();
+		Calculator.marks;
+		obj.he();
+
+	}
+
+}

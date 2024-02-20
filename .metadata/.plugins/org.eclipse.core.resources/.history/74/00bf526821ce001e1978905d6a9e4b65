@@ -1,0 +1,21 @@
+package com;
+
+public class RectangleTest {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		RectangleArea obj = new RectangleArea();
+//		obj.setlength(-45);
+//		obj.breadth(-78);
+
+		obj.setlength(45);
+		obj.breadth(98);
+
+		System.out.println("Length = " + obj.getlength());
+
+		System.out.println("Breadth = " + obj.getbreadth());
+
+	}
+
+}

@@ -1,0 +1,23 @@
+package com;
+
+public class Bank {
+	private int accountnumber;
+	private double bal;
+	private String name;
+
+	Bank(double amt) {
+		balance = ;
+	}
+
+//	Getter method
+	public void displaybal() {
+		System.out.println(bal);
+	}
+	
+//	Setter Method
+	public void desposite(amt) {
+		bal+=amt
+	}
+}
+//Get method Display
+//set method set value

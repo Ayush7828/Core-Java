@@ -1,0 +1,5 @@
+package com.multipleInhertiance;
+
+public interface API {
+
+}

@@ -1,0 +1,10 @@
+package com;
+
+public class Bank {
+	private int accountnumber;
+	private double balance;
+	private String name;
+
+
+
+}

@@ -1,0 +1,29 @@
+package singleInheritance;
+
+public class Student {
+
+	private int rollNo;
+	int marks;
+	String name;
+
+	public int getroll() {
+		return rollNo;
+	}
+  public void setroll(int r) {
+	  roll=r;
+  }
+	void input() {
+		System.out.println("Enter Roll Number ,marks and name = ");
+	}
+}
+
+class Tushar extends Student {
+	void show() {
+
+		rollNo = 12;
+		marks = 85;
+		name = "Tushar";
+		System.out.println(name + " " + rollNo + "marks = " + marks);
+
+	}
+}

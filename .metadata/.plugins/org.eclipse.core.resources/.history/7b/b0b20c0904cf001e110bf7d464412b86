@@ -1,0 +1,16 @@
+package com.abstractClass;
+
+abstract class Vehicle {
+	int noOfTyer;
+
+	abstract void start();
+}
+class Car extends Vehicle{
+
+	@Override
+	void start() {
+		System.out.println("Key Start");
+		
+	}
+	
+}

@@ -1,0 +1,31 @@
+package com;
+
+class Calculator {
+	static int marks;
+
+	void he() {
+		System.out.println("GGGGG");
+
+	}
+}
+
+public class Basic {
+
+	static void hello() {
+
+	}
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Calculator obj = new Calculator();
+		
+		obj.marks=45;
+		obj.he();
+		
+		
+		
+	
+
+	}
+
+}

@@ -1,0 +1,9 @@
+package p1;
+
+//Syntax Error throw
+class LearnDefaultKeyword {
+	void deisplay() {
+		System.out.println("Hello World");
+	}
+
+}

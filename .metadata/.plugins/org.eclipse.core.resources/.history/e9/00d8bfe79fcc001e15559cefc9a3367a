@@ -1,0 +1,48 @@
+package com;
+
+public class Bank {
+	private int accountnumber;
+	private double balance;
+	private String name;
+
+	Bank(int acc, double bal, String nm) {
+		accountnumber = acc;
+		balance = bal;
+		name = nm;
+	}
+
+	public int getAccountnumber() {
+		return accountnumber;
+	}
+
+	public void setAccountnumber(int accn) {
+		if(accn<16) {
+			accountnumber = accn;
+		}
+		else {
+			System.out.println("Please Write proper account number ");
+		}
+		
+	}
+
+	public double getBalance() {
+		return balance;
+	}
+
+	public void setBalance(double bal) {
+		if (bal > 0) {
+			balance = bal;
+		} else {
+			System.out.println("Balance cannot be negative");
+		}
+	}
+
+	public String getName() {
+		return name;
+	}
+
+	public void setName(String na) {
+		name = na;
+	}
+
+}

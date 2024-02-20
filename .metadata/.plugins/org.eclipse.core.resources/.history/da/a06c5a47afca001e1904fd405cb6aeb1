@@ -1,0 +1,8 @@
+package p1;
+
+public class LearnDefaultKeyword {
+	void deisplay() {
+		System.out.println("Hello World");
+	}
+
+}

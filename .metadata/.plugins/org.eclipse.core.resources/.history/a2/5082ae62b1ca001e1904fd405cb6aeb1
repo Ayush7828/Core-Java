@@ -1,0 +1,10 @@
+package com;
+
+public class Student {
+   private int sid=78;
+   private String name="Tushar";
+   private static String scnmae="Geek";
+ private   void m1() {
+	System.out.println(sid);   
+   }
+}

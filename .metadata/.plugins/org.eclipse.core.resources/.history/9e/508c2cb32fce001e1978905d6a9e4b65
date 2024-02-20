@@ -1,0 +1,11 @@
+package learncopyconstrutor;
+
+public class Employee {
+
+	int a, b;
+
+	public Employee() {
+
+	}
+
+}

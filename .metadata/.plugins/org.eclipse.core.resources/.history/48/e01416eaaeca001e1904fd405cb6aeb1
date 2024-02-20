@@ -1,0 +1,16 @@
+package com;
+
+class Example{
+	static Ayush{
+		
+	}
+}
+
+public class LearnINnnerStaticClas {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

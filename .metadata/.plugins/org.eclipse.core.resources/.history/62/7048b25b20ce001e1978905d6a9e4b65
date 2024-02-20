@@ -1,0 +1,41 @@
+package com;
+
+public class Rectangle {
+	private int length;
+	private int breadth;
+
+	public void setlength(int l) {
+
+		if (length > 0) {
+			length = l;
+		} else {
+			length = 0;
+		}
+
+	}
+
+	public int getlength() {
+		return length;
+	}
+
+	public void breadth(int b) {
+		if (breadth > 0)
+			breadth = b;
+
+		else
+			breadth = 0;
+
+	}
+
+	public int getbreadth() {
+		return breadth;
+	}
+
+}
+
+class Test {
+	public static void main(String[] args) {
+		Rectangle obj = new Rectangle();
+
+	}
+}

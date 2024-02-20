@@ -1,0 +1,22 @@
+package com.multipleInhertiance;
+
+public interface API {
+
+	default void show() {
+		System.out.println("Default Api");
+	}
+
+}
+
+interface Test extends API {
+	void display();
+}
+
+interface Tes2 extends API {
+	void Print();
+
+}
+
+class Test implements Test, Tes2 {
+
+}
