@@ -1,15 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="loopPratice.Program"/>
-    <fullyQualifiedTypeName name="NestedLoop.Pattern3"/>
-    <fullyQualifiedTypeName name="javax.print.attribute.standard.OrientationRequested"/>
-    <fullyQualifiedTypeName name="javax.print.attribute.standard.JobOriginatingUserName"/>
-    <fullyQualifiedTypeName name="NestedLoop.Star4Program"/>
-    <fullyQualifiedTypeName name="loopPratice.SymbolEvenOdd"/>
-    <fullyQualifiedTypeName name="basicProgramsPratice.UseThirdVairableSwap"/>
-    <fullyQualifiedTypeName name="basicProgramsPratice.Number"/>
-    <fullyQualifiedTypeName name="loopPratice.Power"/>
-    <fullyQualifiedTypeName name="java.lang.Math"/>
     <fullyQualifiedTypeName name="loopPratice.whileLoop.DigitCount"/>
     <fullyQualifiedTypeName name="loopPratice.whileLoop.ProgramReverse"/>
     <fullyQualifiedTypeName name="com.College"/>
@@ -60,4 +50,14 @@
     <fullyQualifiedTypeName name="com.Exam"/>
     <fullyQualifiedTypeName name="com.LearnStudent"/>
     <fullyQualifiedTypeName name="com.Stu"/>
+    <fullyQualifiedTypeName name="com.B"/>
+    <fullyQualifiedTypeName name="com.TestLearnFinal"/>
+    <fullyQualifiedTypeName name="com.LearnFinal"/>
+    <fullyQualifiedTypeName name="java.lang.NullPointerException"/>
+    <fullyQualifiedTypeName name="java.lang.NumberFormatException"/>
+    <fullyQualifiedTypeName name="java.lang.ArrayIndexOutOfBoundsException"/>
+    <fullyQualifiedTypeName name="learnThrowAndThrows.Demo"/>
+    <fullyQualifiedTypeName name="java.lang.ArithmeticException"/>
+    <fullyQualifiedTypeName name="java.lang.Exception"/>
+    <fullyQualifiedTypeName name="com.methodOverriding.Parent"/>
 </qualifiedTypeNameHistroy>
