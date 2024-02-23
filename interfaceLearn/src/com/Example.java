@@ -5,6 +5,14 @@ public interface Example {
 
 	void show();
 
+	public static void run() {
+		System.out.println("Horse Run");
+	}
+
+	default void add() {
+		System.out.println("Addtion");
+	}
+
 }
 
 class Exam implements Example {
@@ -13,4 +21,9 @@ class Exam implements Example {
 
 		System.out.println("Interface " + a);
 	}
+
+	public static void run() {
+		System.out.println("dog Run");
+	}
+
 }

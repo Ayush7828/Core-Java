@@ -1,16 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="loopPratice.whileLoop.DigitCount"/>
-    <fullyQualifiedTypeName name="loopPratice.whileLoop.ProgramReverse"/>
-    <fullyQualifiedTypeName name="com.College"/>
-    <fullyQualifiedTypeName name="com.TestStudent"/>
-    <fullyQualifiedTypeName name="com.NPAV"/>
-    <fullyQualifiedTypeName name="NestedLoop.NumberPattern.Pattern1"/>
-    <fullyQualifiedTypeName name="java.util.regex.Pattern"/>
-    <fullyQualifiedTypeName name="NestedLoop.NumberPattern.Pattern2"/>
-    <fullyQualifiedTypeName name="NestedLoop.NumberPattern.Pattern3"/>
-    <fullyQualifiedTypeName name="NestedLoop.NumberPattern.Pattern4"/>
-    <fullyQualifiedTypeName name="loopPratice.CheckPerfectNumber"/>
     <fullyQualifiedTypeName name="loopPratice.Hcf"/>
     <fullyQualifiedTypeName name="NestedLoop.NumberPattern.Pattern5"/>
     <fullyQualifiedTypeName name="NestedLoop.StarPattern.Star2"/>
@@ -60,4 +49,15 @@
     <fullyQualifiedTypeName name="java.lang.ArithmeticException"/>
     <fullyQualifiedTypeName name="java.lang.Exception"/>
     <fullyQualifiedTypeName name="com.methodOverriding.Parent"/>
+    <fullyQualifiedTypeName name="compratic.TestA"/>
+    <fullyQualifiedTypeName name="compratic.B"/>
+    <fullyQualifiedTypeName name="compratic.A"/>
+    <fullyQualifiedTypeName name="com.CollegeStudent"/>
+    <fullyQualifiedTypeName name="java.io.File"/>
+    <fullyQualifiedTypeName name="java.io.FileWriter"/>
+    <fullyQualifiedTypeName name="java.io.IOException"/>
+    <fullyQualifiedTypeName name="java.io.BufferedReader"/>
+    <fullyQualifiedTypeName name="java.nio.BufferOverflowException"/>
+    <fullyQualifiedTypeName name="java.io.FileReader"/>
+    <fullyQualifiedTypeName name="java.io.PrintWriter"/>
 </qualifiedTypeNameHistroy>

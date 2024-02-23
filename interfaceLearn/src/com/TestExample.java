@@ -6,7 +6,8 @@ public class TestExample {
 		// TODO Auto-generated method stub
 		Exam obj = new Exam();
 		obj.show();
-
+		obj.add();
+		Exam.run();
 	}
 
 }

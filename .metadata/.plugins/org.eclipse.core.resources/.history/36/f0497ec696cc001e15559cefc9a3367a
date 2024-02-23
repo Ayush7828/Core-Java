@@ -1,7 +1,0 @@
-package com.methodOverriding;
-
-public class Shape {
-   void draw() {
-	   System.out.println("Rectange SHape");
-   }
-}
