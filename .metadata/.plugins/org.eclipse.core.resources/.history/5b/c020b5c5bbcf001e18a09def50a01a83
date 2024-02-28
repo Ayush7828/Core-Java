@@ -1,7 +1,0 @@
-package com;
-
-public class LearnFinal {
-
-	final int A = 10;
-
-}

@@ -21,19 +21,21 @@ public class LearnFileHandling {
 
 		// Java Program to write the data to a file using FileReader class
 
-		/*
-		 * FileReader fr = new FileReader("ay.txt"); int i = fr.read();
-		 * System.out.println(i); // print ascii value of character
-		 * 
-		 * while (i != -1) { System.out.print((char) i); i = fr.read(); // read next
-		 * character and re-initialize i var } fr.close();
-		 */
+		FileReader fr = new FileReader("ay.txt");
+		int i = fr.read();
+		System.out.println(i); // print ascii value of character
+
+		while (i != -1) {
+			System.out.print((char) i);
+			i = fr.read(); // read next character and re-initialize i var }
+		}
+		fr.close();
 
 		// Java Program to read file data using BufferedReader
 
-		FileReader fr = new FileReader("ay.txt");
+		FileReader fr1 = new FileReader("ay.txt");
 
-		BufferedReader bf = new BufferedReader(fr);
+		BufferedReader bf = new BufferedReader(fr1);
 		String line = bf.readLine();
 		while (line != null) {
 			System.out.println(line);

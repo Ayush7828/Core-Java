@@ -3,27 +3,15 @@ package com;
 public interface Example {
 	final int a = 4;
 
-	void show();
+	abstract void show();
 
-	public static void run() {
+	public default void run() {
 		System.out.println("Horse Run");
+		this.add();
 	}
 
-	default void add() {
+	private void add() {
 		System.out.println("Addtion");
-	}
-
-}
-
-class Exam implements Example {
-	@Override
-	public void show() {
-
-		System.out.println("Interface " + a);
-	}
-
-	public static void run() {
-		System.out.println("dog Run");
 	}
 
 }

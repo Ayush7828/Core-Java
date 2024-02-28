@@ -1,9 +1,0 @@
-package com.methodOverloading;
-
-public class Demo {
-	void add() {
-		int a = 45, b = 78, c;
-		c = a + b;
-		System.out.println("Additon = " + c);
-	}
-}

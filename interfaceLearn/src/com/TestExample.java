@@ -1,13 +1,17 @@
 package com;
 
-public class TestExample {
+public class TestExample implements Example {
+
+	public void show() {
+		System.out.println("hello");
+	}
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		Exam obj = new Exam();
+		TestExample obj = new TestExample();
 		obj.show();
-		obj.add();
-		Exam.run();
+		obj.run();
+
 	}
 
 }
