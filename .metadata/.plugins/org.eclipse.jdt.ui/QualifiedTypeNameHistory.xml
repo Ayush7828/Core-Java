@@ -1,18 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="com.Person"/>
-    <fullyQualifiedTypeName name="com.methodOverriding.Square"/>
-    <fullyQualifiedTypeName name="com.Bank"/>
-    <fullyQualifiedTypeName name="com.methodOverloading.Demo"/>
-    <fullyQualifiedTypeName name="java.util.Scanner"/>
-    <fullyQualifiedTypeName name="com.Demo"/>
-    <fullyQualifiedTypeName name="java.lang.Readable"/>
-    <fullyQualifiedTypeName name="com.Rectangle"/>
-    <fullyQualifiedTypeName name="com.RectangleArea"/>
-    <fullyQualifiedTypeName name="learncopyconstrutor.Employee"/>
-    <fullyQualifiedTypeName name="com.LearnPrivateCon"/>
-    <fullyQualifiedTypeName name="singleInheritance.Dog"/>
-    <fullyQualifiedTypeName name="singleInheritance.Tushar"/>
     <fullyQualifiedTypeName name="singleInheritance.Student"/>
     <fullyQualifiedTypeName name="multilevelInheritance.C"/>
     <fullyQualifiedTypeName name="com.methodOverriding.Xyz"/>
@@ -60,4 +47,17 @@
     <fullyQualifiedTypeName name="praticeConstrutor.Student"/>
     <fullyQualifiedTypeName name="praticeConstrutor.Employee"/>
     <fullyQualifiedTypeName name="praticeConstrutor.Bank"/>
+    <fullyQualifiedTypeName name="inheritance.Vehicle"/>
+    <fullyQualifiedTypeName name="inheritance.Car"/>
+    <fullyQualifiedTypeName name="inheritance.Prinicple"/>
+    <fullyQualifiedTypeName name="inheritance.Teacher"/>
+    <fullyQualifiedTypeName name="inheritance.Student"/>
+    <fullyQualifiedTypeName name="inheritance.SubTeacher"/>
+    <fullyQualifiedTypeName name="inheritance.Kotak"/>
+    <fullyQualifiedTypeName name="inheritance.Hdfc"/>
+    <fullyQualifiedTypeName name="jbk2.TestShoppinMall"/>
+    <fullyQualifiedTypeName name="jbk1.ShoppingMall"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="java.lang.StringBuilder"/>
 </qualifiedTypeNameHistroy>
