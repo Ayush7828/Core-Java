@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="singleInheritance.Student"/>
-    <fullyQualifiedTypeName name="multilevelInheritance.C"/>
-    <fullyQualifiedTypeName name="com.methodOverriding.Xyz"/>
-    <fullyQualifiedTypeName name="com.abstractClass.Vehicle"/>
-    <fullyQualifiedTypeName name="com.abstractClass.TestVehicle"/>
-    <fullyQualifiedTypeName name="com.abstractClass.Car"/>
     <fullyQualifiedTypeName name="com.abstractClass.Scooter"/>
     <fullyQualifiedTypeName name="com.Exam"/>
     <fullyQualifiedTypeName name="com.LearnStudent"/>
@@ -39,7 +33,6 @@
     <fullyQualifiedTypeName name="java.lang.Object"/>
     <fullyQualifiedTypeName name="serializationanddeserialzationLearm.Person"/>
     <fullyQualifiedTypeName name="com.Example"/>
-    <fullyQualifiedTypeName name="java.lang.Override"/>
     <fullyQualifiedTypeName name="com.Test"/>
     <fullyQualifiedTypeName name="java.lang.Thread"/>
     <fullyQualifiedTypeName name="com.Student"/>
@@ -58,6 +51,13 @@
     <fullyQualifiedTypeName name="jbk2.TestShoppinMall"/>
     <fullyQualifiedTypeName name="jbk1.ShoppingMall"/>
     <fullyQualifiedTypeName name="java.lang.System"/>
-    <fullyQualifiedTypeName name="java.util.Scanner"/>
     <fullyQualifiedTypeName name="java.lang.StringBuilder"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="arrayProject.Employee"/>
+    <fullyQualifiedTypeName name="java.util.Arrays"/>
+    <fullyQualifiedTypeName name="java.lang.Override"/>
+    <fullyQualifiedTypeName name="abstractionpratice.Bank"/>
+    <fullyQualifiedTypeName name="abstractionpratice.Vehicle"/>
+    <fullyQualifiedTypeName name="java.lang.Integer"/>
+    <fullyQualifiedTypeName name="learnGernric.Dog"/>
 </qualifiedTypeNameHistroy>
