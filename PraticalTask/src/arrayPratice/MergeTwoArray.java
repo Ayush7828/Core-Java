@@ -3,7 +3,7 @@ package arrayPratice;
 public class MergeTwoArray {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+
 		int[] a = { 1, 4, 7, 8 };
 		int[] b = { 12, 45, 78, 9 };
 

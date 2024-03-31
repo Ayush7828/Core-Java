@@ -1,11 +1,10 @@
 package Conditional_Statement_Pratice;
 
 import java.util.Scanner;
-
++
 public class ArmstrongNumberProgram {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 
 		Scanner sc = new Scanner(System.in);
 		System.out.println("Enter a number ");

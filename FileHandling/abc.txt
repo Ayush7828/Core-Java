@@ -1,0 +1,10 @@
+H.w Pratical
+
+
+
+
+sum of daigonal and non sum of diagonal 
+lower traingular and upper trainglure matrix
+
+matrix multiplication
+sum of each row and sum of each column
