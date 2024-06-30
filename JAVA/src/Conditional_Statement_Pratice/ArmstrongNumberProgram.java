@@ -1,7 +1,7 @@
 package Conditional_Statement_Pratice;
 
 import java.util.Scanner;
-+
+
 public class ArmstrongNumberProgram {
 
 	public static void main(String[] args) {

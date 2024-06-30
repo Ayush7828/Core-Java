@@ -12,7 +12,8 @@ public class SecondLargestNumber {
 				secondlargest = max;
 				max = arr;
 
-			} else if (arr > secondlargest && arr != max) {
+			}
+			if (arr > secondlargest && arr != max) {
 				secondlargest = arr;
 
 			}
